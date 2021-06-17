@@ -1,0 +1,16 @@
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\Module1Assignment2.exe
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\Module1Assignment2.deps.json
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\Module1Assignment2.runtimeconfig.json
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\Module1Assignment2.runtimeconfig.dev.json
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\Module1Assignment2.dll
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\ref\Module1Assignment2.dll
+D:\.Net core 2.0\Module1\Module1Assignment2\bin\Debug\net5.0\Module1Assignment2.pdb
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.csprojAssemblyReference.cache
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.AssemblyInfoInputs.cache
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.AssemblyInfo.cs
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.csproj.CoreCompileInputs.cache
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.dll
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\ref\Module1Assignment2.dll
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.pdb
+D:\.Net core 2.0\Module1\Module1Assignment2\obj\Debug\net5.0\Module1Assignment2.genruntimeconfig.cache
